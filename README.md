@@ -35,7 +35,7 @@ Desarrollar un Catálogo de Libros que ofrezca interacción textual (vía consol
 ### 1. Clonar el repositorio:
 
 ```sh
-git clone https://github.com/samantha09s/LiterAlura-ChallengeONE.git
+git https://github.com/EdHDevs/ONE-Challenge-Literalura
 cd LiterAlura-ChallengeONE
 ```
 
